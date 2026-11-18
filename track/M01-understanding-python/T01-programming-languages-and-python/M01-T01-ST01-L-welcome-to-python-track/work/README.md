@@ -2,26 +2,28 @@
 
 ## My Name
 
-Write your name.
+Savitri
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+- Basic programming logic and problem-solving steps.
+- How to write clean code and use development tools like Git and GitHub.
+- Core concepts of software development and logical thinking.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because it has simple, easy-to-read syntax and is widely used in web development, automation, and backend engineering.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My goal is to build a strong foundation in software development and secure a reliable, rewarding career.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: giving step-by-step instructions to a computer so it can solve problems and automate tasks.
 
-Python is:
+Python is: a popular, beginner-friendly programming language used to build applications quickly and cleanly.
 
-In this track, I will learn:
+In this track, I will learn: how to write Python programs, work with data structures, and build real-world full-stack applications.
